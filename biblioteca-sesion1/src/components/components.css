@@ -1,0 +1,14 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: auto;
+}
